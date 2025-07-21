@@ -1,1 +1,1 @@
-Rate constants between the residue-residue pairs of the GLP-1R in active and inactive states for All Atom and Coarse Graining models. The degrees of freedom of residues are included based upon the AMBER forcfefield model.
+Rate constants between the residue-residue pairs of the GLP-1R in active and inactive states for All Atom and Coarse Grained models. The degrees of freedom of residues are included based upon the AMBER forcfefield model.
